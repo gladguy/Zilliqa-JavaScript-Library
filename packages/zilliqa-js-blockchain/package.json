@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@zilliqa-js/account": "0.10.1",
-    "@zilliqa-js/contract": "0.10.1",
+    "@zilliqa-js/contract": "3.1.0",
     "@zilliqa-js/core": "0.10.1",
     "@zilliqa-js/crypto": "0.10.1",
     "@zilliqa-js/util": "0.10.1",
